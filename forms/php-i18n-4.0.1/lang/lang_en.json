@@ -1,0 +1,137 @@
+{       "en":"English",
+        "fr":"French",
+        "ar":"Arabic",
+        "title": "Rama Solutions | Development Studio",
+        "nav_menu": {
+                "home": "Home",
+                "about": "About Us",
+                "services": "Services",
+                "technologies": "Technologies",
+                "team": "Team",
+                "contact": "Contact Us"
+        },
+
+        "hero": {
+                "h1": "Welcome to Rama Solutions",
+                "h2": "We are team of talanted engineers making creative solutions",
+                "a": "Get Started"
+
+        },
+        "about": {
+
+                "h2": "Few Words About Us",
+                "p": "Solving problems runs in our DNA , we make sure to treat your concerns with extreme care so your business and entrepreneur ideas can not only reach out to your customers but attract new ones.",
+
+                "div1": {
+                        "h4": "STRATEGY",
+                        "p": "Aligning user experiences and business outcomes."
+                },
+                "div2": {
+                        "h4": "DESIGN",
+                        "p": "Ideating, prototyping, and refining solution concepts."
+                },
+                "div3": {
+                        "h4": "DEVELOPMENT",
+                        "p": "Building reliable, scalable, secure, and effective software."
+                },
+                "div4": {
+                        "h4": "DELIVERY",
+                        "p": "Validating user experience and providing post-release support."
+                }
+
+        },
+
+        "services": {
+                "h3": "Services",
+                "p": "Providing a full range of website, mobile , desktop , games development , IoT, IA and other IT services and solutions globally.",
+
+                "div1": {
+                        "h4": "Web Development",
+                        "p": "We turn your great ideas into amazing web solutions"
+                },
+                "div2": {
+                        "h4": "MOBILE APPS",
+                        "p": "We develop mobile apps that help businesses grow faster and reach out with the huge mobile ends users."
+                },
+                "div3": {
+                        "h4": "DESKTOP APPS",
+                        "p": "We develop cross platform Desktop applications with amazing and powerful UI for your custom needs."
+                },
+                "div4": {
+                        "h4": "AUTOMATION & BOTS",
+                        "p": "We have a team with years of experience in this field, we create solutions that automate your business repetetive work so you can focus in other matters."
+                },
+                "div5": {
+                        "h4": "GAME DEVELOPMENT",
+                        "p": "Designers, artists and some real gamers, who know how to produce playful & entertainment desktop and mobile games."
+                },
+                "div6": {
+                        "h4": "IOT",
+                        "p": "Internet of Things technology is becoming a part of the daily life, we provide efficient apps for your custom needs."
+                }
+
+        },
+        "call_to_action": {
+
+                "h3": "✔️ Guaranteed Customers Satisfaction",
+                "p": "Have a new project idea to build? Business looking for web upgrades? or even small startup searching for advices",
+                "a": "Call To Action"
+        },
+        "technology": {
+                "h2": "Technologies we work with",
+                "ul": {
+                        "mobile": "Mobile",
+                        "front_end": "Frontend",
+                        "database": "Database",
+                        "backend": "Backend",
+                        "cms": "CMS",
+                        "infra_and_devops": "Infra & DevOps"
+                }
+
+        },
+        "contact": {
+                "h3": "Contact",
+                "p": "Interesting our services ? Get in touch with us.",
+                "h5_1": "Office Location",
+                "h5_2": "Opening Hours",
+                "i1": "Tunisia : +216 55 283 385",
+                "i2": "International : +1 401 515 5587",
+                "i3": "Bou Mhel el-Bassatine ,Ben Arous",
+                "div1": {
+                        "text": "Mon - Sat",
+                        "span": "9:00 - 17:00"
+                },
+                "div2": {
+                        "text": "Sunday",
+                        "span": "9:00 - 12:00"
+                }
+        },
+        "footer":{
+                "newsletter":{
+                        "h3":"Newsletter",
+                        "p":"Sign up to receive regular news and updates on our work.",
+                        "div":"Loading",
+                        "button":"Subscribe"
+                },
+                "social_media":"Social Media",
+                "get_in_touch":{
+                        "h3":"Get in Touch",
+                        "select":{
+                                "opt1":"Web Development",
+                                "opt2":"Mobile Development",
+                                "opt3":"Graphic Design",
+                                "opt4":"Desktop Apps",
+                                "opt5":"Automation And Bots",
+                                "opt6":"Game Development",
+                                "opt7":"Internet Of Things",
+                                "opt8":"Others"
+                        },
+                        "div":"Loading",
+                        "button":"Send Message"
+                },
+                "bottom":{
+                        "span1":"Made with",
+                        "span2":"Tunisia."
+                }
+        }
+}

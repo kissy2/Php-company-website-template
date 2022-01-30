@@ -1,0 +1,137 @@
+{       "en":"Anglais",
+        "fr":"Francais",
+        "ar":"Arabe",
+        "title": "Rama Solutions | Boite de Développement",
+        "nav_menu": {
+                "home": "Accueil",
+                "about": "A propos",
+                "services": "Services",
+                "technologies": "Technologies",
+                "team": "Equipe",
+                "contact": "Contact"
+        },
+
+        "hero": {
+                "h1": "Bienvenue à Rama Solutions",
+                "h2": "Nous somme une équipe de talentueux qui créer des solution informatique pour vous",
+                "a": "Demarrer"
+
+        },
+        "about": {
+
+                "h2": "Qui somme nous",
+                "p": "La résolution de problèmes fait partie de notre ADN, nous nous assurons de traiter vos préoccupations avec un soin extrême afin que vos services puissent non seulement atteindre vos clients, mais en attirer de nouveaux.",
+
+                "div1": {
+                        "h4": "STRATEGIE",
+                        "p": "Aligner les expériences des utilisateurs et les résultats commerciaux."
+                },
+                "div2": {
+                        "h4": "CONCEPTION",
+                        "p": "Idée, prototypage et affinage des concepts de solution."
+                },
+                "div3": {
+                        "h4": "DEVLOPEMENT",
+                        "p": "Construire des logiciels fiables, évolutifs, sécurisés et efficaces."
+                },
+                "div4": {
+                        "h4": "LIVRAISON",
+                        "p": "Valider l'expérience utilisateur et fournir un support post-livraison."
+                }
+
+        },
+
+        "services": {
+                "h3": "Services",
+                "p": "Fournir une gamme complète de sites Web, mobiles, application bureautique, développement de jeux, IoT, IA et autres services et solutions informatiques à l'échelle mondiale.",
+
+                "div1": {
+                        "h4": "Développement Web",
+                        "p": "Nous transformons vos bonnes idées en solutions Web étonnantes."
+                },
+                "div2": {
+                        "h4": "Application Mobile",
+                        "p": "Nous développons des applications mobiles qui aident les entreprises à se développer plus rapidement et à toucher la grande population des utilisateurs mobile."
+                },
+                "div3": {
+                        "h4": "Applications Bureautique",
+                        "p": "Nous développons des applications de bureau multiplateformes avec une interface utilisateur étonnante et puissante pour vos besoins personnalisés."
+                },
+                "div4": {
+                        "h4": "AUTOMATION & BOTS",
+                        "p": "Nous avons une équipe avec des années d'expérience dans ce domaine, nous créons des solutions qui automatisent le travail répétitif de votre entreprise."
+                },
+                "div5": {
+                        "h4": "Développement Jeux-videos",
+                        "p": "Des designers, des artistes et de vrais gamers, qui savent comment produire des jeux de bureau et mobiles cool et divertissantes."
+                },
+                "div6": {
+                        "h4": "IOT",
+                        "p": "L' IOT devient une partie de la vie quotidienne, nous fournissons des applications efficaces pour vos besoins personnalisés."
+                }
+
+        },
+        "call_to_action": {
+
+                "h3": "✔️ Satisfaction Client Garantie",
+                "p": "Vous avez une nouvelle idée de projet à construire? Entreprise à la recherche de mises à niveau Web? ou même petite startup à la recherche de conseils",
+                "a": "Démarrer"
+        },
+        "technology": {
+                "h2": "Les Technologies qu'on utilise",
+                "ul": {
+                        "mobile": "Mobile",
+                        "front_end": "Frontend",
+                        "database": "Base de données",
+                        "backend": "Backend",
+                        "cms": "CMS",
+                        "infra_and_devops": "Infra & DevOps"
+                }
+
+        },
+        "contact": {
+                "h3": "Contact",
+                "p": "Interessé par nos services, contactez nous",
+                "h5_1": "Notre Siège",
+                "h5_2": "Heures d'ouverture",
+                "i1": "Tunisie : +216 55 283 385",
+                "i2": "International : +1 401 515 5587",
+                "i3": "Bou Mhel el-Bassatine ,Ben Arous",
+                "div1": {
+                        "text": "LUN - SAM",
+                        "span": "9:00 - 17:00"
+                },
+                "div2": {
+                        "text": "DIMANCHE",
+                        "span": "9:00 - 12:00"
+                }
+        },
+        "footer":{
+                "newsletter":{
+                        "h3":"Newsletter",
+                        "p":"Abonnez-vous pour recevoir notre actualités et nouveautés",
+                        "div":"Chargement",
+                        "button":"Abonnez vous!"
+                },
+                "social_media":"Réseaux Sociaux",
+                "get_in_touch":{
+                        "h3":"Contactez nous",
+                        "select":{
+                                "opt1":"Développement Web",
+                                "opt2":"Développement Mobile",
+                                "opt3":"Conception Graphique",
+                                "opt4":"Applications Bureautique",
+                                "opt5":"Automation Et Bots",
+                                "opt6":"Développement Jeux-videos",
+                                "opt7":"IOT",
+                                "opt8":"Autres"
+                        },
+                        "div":"Chargement",
+                        "button":"Envoyer un message"
+                },
+                "bottom":{
+                        "span1":"Créer avec",
+                        "span2":"Tunisie."
+                }
+        }
+}
