@@ -1,3 +1,3 @@
 # Php-company-website-template
 Rama Solutions website template
-ramasolutions.tech
+https://ramasolutions.tech
