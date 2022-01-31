@@ -129,7 +129,7 @@
       if (cur_pos < 300) {
         $(".nav-menu li:first").addClass('menu-active');
       }
-      if (cur_pos > 3500) {
+      if (cur_pos > 3450) {
         $(".nav-menu li").eq(-2).addClass('menu-active');
       }
     });

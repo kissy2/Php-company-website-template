@@ -27,7 +27,7 @@ else
     $parsedUrl = parse_url($_SERVER['HTTP_HOST']);
     $host = explode('.', $parsedUrl['path']);
     $subdomain = array_slice($host, 0, count($host) - 2);
-    if ($subdomain and in_array($subdomain, $languages))
+    if (!empty($subdomain) and in_array($subdomain, $languages))
     {
         $_SESSION["lang"] = $subdomain[0];
         setcookie("lang", $_SESSION["lang"], time() + 3600 * 24 * 365, '/', $url);
