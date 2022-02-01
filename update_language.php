@@ -8,7 +8,7 @@ $languages = array(
 
 $parsedUrl = parse_url($_SERVER['HTTP_HOST']);
 $host = explode('.', $parsedUrl['path']);
-$subdomain = array_slice($host, 1, count($host) );
+$subdomain = array_slice($host, count($host) > 2 ? 1 : 0, count($host) );
 $url= '.'.join(".",$subdomain);
 
 function clean($string)
@@ -28,10 +28,8 @@ if (isset($_POST["lang"]))
 }
 else
 {
-    $parsedUrl = parse_url($_SERVER['HTTP_HOST']);
-    $host = explode('.', $parsedUrl['path']);
     $subdomain = array_slice($host, 0, count($host) - 2);
-    if (!empty($subdomain) and in_array($subdomain, $languages))
+    if (!empty($subdomain) and in_array($subdomain[0], $languages))
     {
         $_SESSION["lang"] = $subdomain[0];
         setcookie("lang", $_SESSION["lang"], time() + 3600 * 24 * 365, '/', $url);
@@ -50,7 +48,7 @@ else
         {
             $_SESSION["lang"] = "en";
             setcookie("lang", 'en', time() + 3600 * 24 * 365, '/', $url); //add gio ip for default language
-            
+
         }
     }
 
