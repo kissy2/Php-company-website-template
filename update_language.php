@@ -5,7 +5,11 @@ $languages = array(
     'fr',
     'ar'
 );
-$url = '.ramasolutions.tech';
+
+$parsedUrl = parse_url($_SERVER['HTTP_HOST']);
+$host = explode('.', $parsedUrl['path']);
+$subdomain = array_slice($host, 1, count($host) );
+$url= '.'.join(".",$subdomain);
 
 function clean($string)
 {
