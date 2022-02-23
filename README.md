@@ -1,5 +1,8 @@
 # Php-company-website-template
-Rama Solutions multilingual website template
+Rama Solutions multilingual PHP website template.\
+Especially designed for agencies and businesses. So anyone can use it for consulting and agency websites.\
+Moreover, the template contains all the necessary elements and sections with the latest version of Bootstrap 5.\
+In addition, a Sticky and Slick Slider navigation menu that will help your website stand out. This versatile template is fully compatible with all browsers and devices.
 
 Running website : https://ramasolutions.tech
 
